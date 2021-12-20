@@ -504,7 +504,7 @@ a:hover {
   height: 40px;
   width: 40px;
   border-radius: 0 5px 5px 0;
-  background: #fff;
+  background: rgb(7, 7, 7);
   right: -39px;
   text-align: center;
   line-height: 40px;
