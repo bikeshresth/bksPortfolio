@@ -301,7 +301,12 @@ a:hover {
 }
 
 .discribe p {
-  margin: 0 0 15px;
+  margin: 0 0 1px;
+}
+
+ .discribe p a{
+  color: rgb(79, 7, 107);
+  text-decoration: underline;
 }
 
 .custom-control {
@@ -1231,6 +1236,16 @@ a:hover {
   margin: 0 0 3px;
 }
 
+.resume-title a{
+  color:rgb(79, 7, 107);
+}
+
+.resume-title a:hover{
+  color:rgb(177, 23, 156);
+  text-decoration: underline;
+}
+
+
 .date {
   display: block;
   font-size: 11px;
@@ -2030,6 +2045,7 @@ aside {
 .comment-detail .discribe p {
   margin: 0 0 5px;
 }
+
 
 .time {
   font-size: 12px;
